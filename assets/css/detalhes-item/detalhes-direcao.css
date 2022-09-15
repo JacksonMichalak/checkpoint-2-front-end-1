@@ -1,0 +1,12 @@
+.detalhes__direcao {
+    display: flex;
+}
+
+.direcao__diretor:nth-child(1) {
+    width: 222px;
+    height: 100%;
+}
+
+.direcao__diretor:nth-child(2) {
+    flex-grow: 1;
+}

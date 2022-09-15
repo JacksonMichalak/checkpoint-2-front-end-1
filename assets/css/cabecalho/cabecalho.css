@@ -1,0 +1,16 @@
+.cabecalho {
+    align-items: center;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+    height: 80px;
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    margin: 0 auto;
+    max-width: 1600px;
+}
+

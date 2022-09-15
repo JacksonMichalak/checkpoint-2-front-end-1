@@ -1,0 +1,11 @@
+.titulo__banner {
+    position: absolute;
+    left: 22%;
+    top: 30%;
+    color: #E51B3E;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 84px;
+    font-weight: 900;
+    font-style: normal;
+}

@@ -1,0 +1,9 @@
+.video__trailer {
+    width: 100%;
+}
+
+.video__trailer iframe{
+    width: 100%;
+    height: 500px;
+    border-radius: 8px;
+}

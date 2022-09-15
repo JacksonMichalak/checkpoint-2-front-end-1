@@ -1,0 +1,16 @@
+.rodape__data {
+    display: flex;
+    flex: 0.8;
+    align-items: center;
+    width: 100%;
+}
+.rodape__data p {
+    width: 100%;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 0.5);
+
+}

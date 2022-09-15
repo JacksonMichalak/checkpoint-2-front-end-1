@@ -1,0 +1,10 @@
+.conteudo__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 55%;
+    width: 100%;
+    background: #F4F4F4;
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+}

@@ -1,0 +1,130 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+    border-radius: 12px;
+    margin-bottom: 3rem;
+    filter: drop-shadow(0px 8px 12px rgba(0, 0, 0, 0.1));
+}
+
+.card--1 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(1){
+    background: url(../../../img/cards/1.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.card--2 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(2){
+    background: url(../../../img/cards/2.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.card--3 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(3){
+    background: url(../../../img/cards/3.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.card--4 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(4){
+    background: url(../../../img/cards/4.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.card--5 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(5){
+    background: url(../../../img/cards/5.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+.card--6 {
+    height: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-position: top;
+    border-radius: 12px;
+}
+
+.card:nth-child(6){
+    background: url(../../../img/cards/6.png);
+    border-radius: 12px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
