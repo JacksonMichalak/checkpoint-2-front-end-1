@@ -3,4 +3,12 @@
     font-size: 18px;
     line-height: 21px;
     text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 12px;
+}
+
+.itens__cabecalho:hover,
+.itens__cabecalho.active {
+    background: #606060;
+    color: #fff;
 }
