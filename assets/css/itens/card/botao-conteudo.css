@@ -10,4 +10,11 @@
     color: #FFFFFF;
     border: none;
     cursor: pointer;
+    transition: ease-in-out 0.5s;
+}
+
+.botao__conteudo button:hover {
+    transform: scale(1.02);
+    background: #268d4f;
+
 }

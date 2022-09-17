@@ -1,7 +1,7 @@
-.titulo__trailer {
+.titulo__trailer h2{
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 32px;
     line-height: 42px;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.6rem;
 }

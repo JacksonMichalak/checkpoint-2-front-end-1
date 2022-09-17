@@ -1,3 +1,4 @@
-.detalhes__estrelas {
-
+.detalhes__estrelas img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
 }

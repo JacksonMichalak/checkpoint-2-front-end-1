@@ -1,0 +1,9 @@
+.icone__github a img{
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.icone__github a img:hover {
+    -webkit-transform: rotateZ(360deg);
+    transform: rotateZ(360deg);
+}

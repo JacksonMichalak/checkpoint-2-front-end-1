@@ -1,0 +1,9 @@
+.icone__linkedin a img{
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.icone__linkedin a img:hover {
+    -webkit-transform: rotateZ(360deg);
+    transform: rotateZ(360deg);
+}

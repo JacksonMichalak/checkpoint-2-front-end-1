@@ -1,19 +1,81 @@
-.banner__item {
+
+.banner__item--coringa {
+    background-image: url(../../img/banner-itens/coringa.png);
+    height: calc(100vh - 80px);
     top: 80px;
     width: 100vw;
     font-family: 'Roboto', sans-serif;
     margin: 0 auto;
-    max-width: 1600px;
+    max-width: 1920px;
+    position: relative; 
+    background-position: center;
+    background-size: cover;
 }
 
-.banner__item img{
-    background-repeat: no-repeat;
-    background-size: cover;
+.banner__item--capita_marvel {
+    background-image: url(../../img/banner-itens/capita-marvel.jpg);
+    height: calc(100vh - 80px);
+    top: 80px;
     width: 100vw;
+    font-family: 'Roboto', sans-serif;
     margin: 0 auto;
-    max-width: 1600px;
-    background-repeat: no-repeat;
+    max-width: 1920px;
+    position: relative; 
+    background-position: top;
     background-size: cover;
-    max-width: 1600px;
 }
+
+.banner__item--after {
+    background-image: url(../../img/banner-itens/after.jpg);
+    height: calc(100vh - 80px);
+    top: 80px;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    max-width: 1920px;
+    position: relative; 
+    background-position: top;
+    background-size: cover;
+}
+
+.banner__item--dora {
+    background-image: url(../../img/banner-itens/dora.jpg);
+    height: calc(100vh - 80px);
+    top: 80px;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    max-width: 1920px;
+    position: relative; 
+    background-position: center;
+    background-size: cover;
+}
+
+.banner__item--1917 {
+    background-image: url(../../img/banner-itens/1917.jpg);
+    height: calc(100vh - 80px);
+    top: 80px;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    max-width: 1920px;
+    position: relative; 
+    background-position: top;
+    background-size: cover;
+}
+
+.banner__item--thor {
+    background-image: url(../../img/banner-itens/thor.jpeg);
+    height: calc(100vh - 80px);
+    top: 80px;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    max-width: 1920px;
+    position: relative; 
+    background-position: top;
+    background-size: cover;
+}
+
+
 
