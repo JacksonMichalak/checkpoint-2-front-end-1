@@ -6,13 +6,15 @@
     padding: 8px 15px;
     border-radius: 12px;
 }
+.login:hover,
+.login input:hover {
+    background: none;
+    color: #626262;
+    cursor: default;
+}
 
-.itens__cabecalho:hover,
-.menu__cabecalho input:hover,
 .itens__cabecalho.active {
     background: #606060;
     color: #fff;
+    cursor: pointer;
 }
-
-
-

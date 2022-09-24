@@ -1,0 +1,8 @@
+.login__fechar {
+    position: absolute;
+    right: 0;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}

@@ -8,6 +8,8 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="index.js">
+
     <!--Global-->
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/global.css">
@@ -49,12 +51,15 @@
   </head>
   <body id="inicio">
     <header>
-      <div class="cabecalho">
-        <div class="logo__cabecalho">
-          <img src="assets/img/logo.png" alt="Logo Front Flix">
-        </div>
-        <div class="menu__cabecalho">
-          <nav>
+      <nav>
+        <div class="cabecalho">
+          <div class="logo__cabecalho">
+            <img src="assets/img/logo.png" alt="Logo Front Flix">
+          </div>
+          <div class="menu__cabecalho">
+            <input type="checkbox" id="menu">
+            <label for="menu">&#9776;</label>
+            <!--<button></button>-->
             <ul class="lista__cabecalho">
               <a class="itens__cabecalho active" href="#inicio">
                 <li>Home</li>
@@ -65,12 +70,12 @@
               <a class="itens__cabecalho" href="#rodape">
                 <li>Sobre nós</li>
               </a>
-              <a class="itens__cabecalho" href="">
+              <a class="itens__cabecalho" href="login.html">
                 <li>Login</li>
               </a>
             </ul>
-          </nav>
-        </div>
+      </nav>
+      </div>
       </div>
     </header>
     <main>
@@ -252,7 +257,7 @@
             <div class="creadores__icones">
               <div class="icone__linkedin">
                 <a href="https://www.linkedin.com/in/elaine-lopes-23b293142/" target="_blank">
-                <img src="assets/img/logo_linkedin.png" alt="logo LinkdIn">
+                  <img src="assets/img/logo_linkedin.png" alt="logo LinkdIn">
                 </a>
               </div>
               <div class="icone__github">

@@ -1,0 +1,9 @@
+.login__logo {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.login__logo img {
+    width: 70%;
+}

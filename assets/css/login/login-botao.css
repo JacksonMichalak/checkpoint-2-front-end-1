@@ -1,0 +1,21 @@
+.login__botao {
+    width: 100%;
+
+}
+
+.login__botao button {
+    width: 100%;
+    height: 45px;
+    background: #33BB69;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+}
+
+.login__botao button:hover {
+    transform: scale(1.02);
+}

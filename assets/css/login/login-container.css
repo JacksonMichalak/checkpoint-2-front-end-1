@@ -1,0 +1,20 @@
+.login__container {
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    height: 500px;
+    background: #fff;
+    border-radius: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner__login {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../../img/banner.png);
+
+}
+
+.banner__login .titulo__banner, .banner__login .frase__banner {
+    opacity: .3;
+}
