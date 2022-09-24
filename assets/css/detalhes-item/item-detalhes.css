@@ -5,3 +5,10 @@
     font-family: 'Roboto', sans-serif;
     margin-top: 80px;
 }
+
+@media (min-width: 320px) and (max-width: 800px) {
+
+    .item__detalhes {
+        padding: 1rem 2rem;
+    }
+}

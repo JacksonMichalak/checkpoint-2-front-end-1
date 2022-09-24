@@ -9,3 +9,10 @@
     font-weight: 300;
     font-style: normal;
 }
+
+@media (min-width: 320px) and (max-width: 450px) {
+
+    .frase__banner {
+        display: none;
+    }
+}

@@ -10,3 +10,11 @@
 .direcao__diretor:nth-child(2) {
     flex-grow: 1;
 }
+
+@media (min-width: 320px) and (max-width: 600px) {
+
+    .detalhes__direcao {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

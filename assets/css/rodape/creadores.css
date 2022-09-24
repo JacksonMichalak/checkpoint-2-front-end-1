@@ -22,3 +22,20 @@
 .creadores:nth-child(4){
     align-items: flex-end;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .creadores {
+        align-items: center;
+        width: 100%;
+    }
+
+    .creadores:nth-child(1){
+        align-items: center;
+    }
+
+    .creadores:nth-child(4){
+        align-items: center;
+    }
+
+}

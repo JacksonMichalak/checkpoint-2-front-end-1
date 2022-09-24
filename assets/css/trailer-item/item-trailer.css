@@ -4,3 +4,10 @@
     padding: 1rem 5rem;
     font-family: 'Roboto', sans-serif;
 }
+
+@media (min-width: 320px) and (max-width: 800px) {
+
+    .item__trailer {
+        padding: 1rem 2rem;
+    }
+}

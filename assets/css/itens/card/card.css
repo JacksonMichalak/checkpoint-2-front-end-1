@@ -111,7 +111,106 @@
     background-position: top;
 }
 
+@media (min-width: 481px) and (max-width: 1024px) {
 
+    .itens {
+        padding: 2rem 1rem;
+
+    }
+
+    .cards__itens {
+        padding: 0;
+    }
+
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .itens {
+        padding: 2rem 1rem;
+
+    }
+
+    .cards__itens {
+        padding: 0;
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 350px) {
+
+    .card {
+        height: 750px;
+    }
+}
+
+@media (min-width: 351px) and (max-width: 400px) {
+
+    .card {
+        height: 650px;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 440px) {
+
+    .card {
+        height: 600px;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 700px) {
+
+    .cards__itens {
+        padding: 0;
+    }
+    
+    .card {
+        width: 550px;
+    }
+
+    .card--1, .card--2, .card--3, .card--4, .card--5, .card--6 {
+        height: 65%;
+    }
+    
+}
+
+@media (min-width: 701px) and (max-width: 850px) {
+
+    .card {
+        width: 324px;
+        height: 700px;
+    }
+}
+
+@media (min-width: 850px) and (max-width: 900px) {
+
+    .card {
+        width: 345px;
+        height: 700px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1024px) {
+
+    .card {
+        width: 400px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    .card {
+        width: 420px;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1400px) {
+
+    .card {
+        width: 500px;
+    }
+}
 
 
 

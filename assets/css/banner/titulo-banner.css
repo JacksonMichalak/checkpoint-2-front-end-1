@@ -7,3 +7,13 @@
     font-size: 40px;
     line-height: 84px;
 }
+
+@media (min-width: 320px) and (max-width: 450px) {
+
+    .titulo__banner {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+

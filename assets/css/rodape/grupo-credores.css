@@ -7,3 +7,11 @@
     justify-content: space-around;
     align-items: center;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .grupo__creadores {
+        padding: 3rem 0;
+        gap: 2rem;
+    }
+}

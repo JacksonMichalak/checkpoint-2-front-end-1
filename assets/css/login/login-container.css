@@ -18,3 +18,18 @@
 .banner__login .titulo__banner, .banner__login .frase__banner {
     opacity: .3;
 }
+
+@media (min-width: 320px) and (max-width: 500px) {
+
+    .login__container {
+        width: 90%;
+        height: 400px;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 1000px) {
+
+    .login__container {
+        height: 400px;
+    }
+}

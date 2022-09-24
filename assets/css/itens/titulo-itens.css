@@ -5,3 +5,19 @@
     color: #000000;
     text-align: center;
 }
+
+@media (min-width: 320px) and (max-width: 1024px) {
+
+    .titulo__itens {
+        padding-bottom: 1rem;
+
+    }
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+
+    .titulo__itens {
+        font-size: 32px;
+
+    }
+}
