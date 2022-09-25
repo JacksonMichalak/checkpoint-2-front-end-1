@@ -30,11 +30,15 @@
 
 }
 
-@media (min-width: 501px) and (max-width: 950px) {
+@media (min-width: 501px) and (max-width: 800px) {
 
     .botao__banner button {
-        top: 60%;
+        padding: 0 5%;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -50%);
         width: 30%;
+        text-align: center;
     }
 
 }

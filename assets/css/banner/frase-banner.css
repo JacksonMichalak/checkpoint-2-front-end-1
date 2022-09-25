@@ -16,3 +16,15 @@
         display: none;
     }
 }
+
+@media (min-width: 450px) and (max-width: 800px) {
+
+    .frase__banner {
+        padding: 0 5%;
+        left: 50%;
+        top: 55%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        text-align: center;
+    }
+}

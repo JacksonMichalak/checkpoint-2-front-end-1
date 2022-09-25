@@ -11,9 +11,24 @@
 @media (min-width: 320px) and (max-width: 450px) {
 
     .titulo__banner {
+        padding: 0 5%;
         left: 50%;
         top: 50%;
         transform: translate(-50%, -50%);
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 800px) {
+
+    .titulo__banner {
+        padding: 0 5%;
+        left: 50%;
+        top: 42%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        text-align: center;
     }
 }
 
